@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Gaurdian News</string>
+    <string name="error">An error has occured while loading news articles.</string>
+</resources>
